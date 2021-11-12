@@ -1,0 +1,8 @@
+/* 
+    Rename this file to config.h and replace the following
+    values with the settings for your WiFi Network. First-gen
+    ESP32 hardware can only connect to 2.4GHz WiFi networks.
+ */
+
+const char* ssid = "yourNetworkName";
+const char* password =  "yourNetworkPass";
